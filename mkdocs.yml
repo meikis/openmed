@@ -36,6 +36,8 @@ nav:
       - Swift Package (OpenMedKit): swift-openmedkit.md
   - Project:
       - Contributing & Releases: contributing.md
+      - Release Streams & Channels: release/semver-and-channels.md
+      - Generative Model Policy: generative-model-policy.md
 
 theme:
   name: material

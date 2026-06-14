@@ -99,6 +99,8 @@ openmed = "openmed.cli:main"
 include = [
   "openmed/**",
   "models.jsonl",
+  "LICENSE",
+  "NOTICE",
   "README.md",
   "pyproject.toml"
 ]
